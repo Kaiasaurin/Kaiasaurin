@@ -1,16 +1,29 @@
-### Hi there 👋
+💻 OS
+ ![image](https://user-images.githubusercontent.com/101678546/158493162-bf343106-84f4-4ca9-ac43-962b5570577d.png) ![image](https://user-images.githubusercontent.com/101678546/158493181-f03ae6b4-be48-438d-a83f-3b367c01b4fd.png)
 
-<!--
-**Kaiasaurin/Kaiasaurin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📝 Editors
+  
+
+👨‍💻 Programming languages
+   
+
+ 
+
+🏗️ Web Design Languages
+   
+
+🧰 Frameworks and libraries
+   
+
+  
+
+🗄️ Databases
+   
+
+☁️ Cloud hosting
+ 
+
+⚙️ Tools
+        
