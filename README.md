@@ -14,8 +14,7 @@
 
 👨‍💻 Programming languages
    
-![image](https://user-images.githubusercontent.com/101678546/158493293-e6b3ac5d-575e-48d1-938f-68e710b3676b.png) ![image](https://user-images.githubusercontent.com/101678546/158493309-a5dcf332-abc4-4f82-ae06-54c5e7c38d77.png) ![image](https://github.com/Kaiasaurin/Kaiasaurin/blob/main/1q34123.png?raw=true)
-
+![image](https://user-images.githubusercontent.com/101678546/158493293-e6b3ac5d-575e-48d1-938f-68e710b3676b.png) ![image](https://user-images.githubusercontent.com/101678546/158493309-a5dcf332-abc4-4f82-ae06-54c5e7c38d77.png)
 
 🏗️ Web Design Languages
    
