@@ -1,6 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaiasaurin)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaiasaurin&theme=radical&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaiasaurin&show_icons=true&theme=radical)
 
 💻 OS
 
