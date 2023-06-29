@@ -20,21 +20,6 @@
    
    ![image](https://user-images.githubusercontent.com/101678546/158493417-72ad6620-e8cd-472d-b16b-46e27dd27acb.png)
 
-
-🧰 Frameworks and libraries
-   
-![image](https://user-images.githubusercontent.com/101678546/158493428-1140307c-e226-49ed-8dd1-52843e2f9f91.png) ![image](https://user-images.githubusercontent.com/101678546/158493440-9f32bfed-9870-42cb-97e3-c2773253bb6d.png)
-
-
-🗄️ Databases
-   
-![image](https://user-images.githubusercontent.com/101678546/158493456-d7a0f726-6118-4ec9-8bbf-c567e123009f.png) ![image](https://user-images.githubusercontent.com/101678546/158493464-999f783b-bd2e-4cd2-9229-692688e73180.png) ![image](https://user-images.githubusercontent.com/101678546/158493472-3bb0c8b9-cb03-440a-afa3-c3df60d48e6b.png)
-
-☁️ Cloud hosting
-
- ![image](https://user-images.githubusercontent.com/101678546/158493503-dbe7562b-8eb0-413c-b772-9a1635772d0e.png)
-
-
 ⚙️ Tools
         
 ![image](https://user-images.githubusercontent.com/101678546/158493519-156ad3c2-36a0-4803-aa42-e332c3dcca51.png) ![image](https://user-images.githubusercontent.com/101678546/158493531-c353b7d4-efcb-40d2-9cc5-eeceec289cd2.png) ![image](https://user-images.githubusercontent.com/101678546/158493540-dc9b3e40-548f-42a6-9469-f64451588fe3.png) ![image](https://user-images.githubusercontent.com/101678546/158493553-1d4164a5-b6d6-4698-b09e-55e653ef8744.png)
