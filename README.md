@@ -11,11 +11,6 @@
 
   ![image](https://user-images.githubusercontent.com/101678546/158493230-5a6c1db0-a2ec-44ce-88d3-8e1df2563a71.png) ![image](https://user-images.githubusercontent.com/101678546/158493241-807a1bb5-8635-409b-96e4-41a1a52f07da.png) ![image](https://user-images.githubusercontent.com/101678546/158493270-bf62222f-54a1-454f-bc9c-3a1af34349cc.png)
 
-
-👨‍💻 Programming languages
-   
-![image](https://user-images.githubusercontent.com/101678546/158493293-e6b3ac5d-575e-48d1-938f-68e710b3676b.png) ![image](https://user-images.githubusercontent.com/101678546/158493309-a5dcf332-abc4-4f82-ae06-54c5e7c38d77.png)
-
 🏗️ Web Design Languages
    
    ![image](https://user-images.githubusercontent.com/101678546/158493417-72ad6620-e8cd-472d-b16b-46e27dd27acb.png)
